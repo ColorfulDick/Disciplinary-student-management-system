@@ -2,7 +2,7 @@
 
 违纪学生信息管理系统（Disciplinary-student-management-system）
 ========
-使用技术：python3.6、django2.0、adxmin2.0
+相关技术：python3.6、django2.0、xadmin2.0
 ------------
 
 输入127.0.0.1:8000/admin可进入管理系统
@@ -18,5 +18,5 @@
 
 *可以导出学生信息为excel（axdmin模板自带功能）
 
-*可以查看操作日志（哪个管理员删除谁，加入谁。axdmin模板自带功能）
+*可以查看、更改操作日志（例如哪个管理员删除谁，加入了谁。axdmin模板自带功能）
 
