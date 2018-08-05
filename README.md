@@ -20,3 +20,10 @@
 
 *可以查看、更改操作日志（例如哪个管理员删除谁，加入了谁。axdmin模板自带功能）
 
+图片介绍：
+------------
+![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-50447821.jpg)
+
+![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-50496712.jpg)
+
+![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-50522670.jpg)
