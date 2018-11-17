@@ -27,3 +27,11 @@
 ![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-50496712.jpg)
 
 ![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-50522670.jpg)
+
+------------------------------
+#近期更新：
+考虑到违纪学生越来越多，将违纪学生一起显示会令查询者很难找到自己，所以新写了一个搜索界面，学生可以通过输入学号，只查看自己违纪信息
+
+![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-3191796.jpg)
+
+![image](https://github.com/ColorfulDick/Disciplinary-student-management-system/blob/master/360%E6%88%AA%E5%9B%BE-3337594.jpg)
