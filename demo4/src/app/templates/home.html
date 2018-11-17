@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>违纪学生名单汇总</title>
+</head>
+<body>
+<table>
+	<thead>
+	<tr>
+		<th>姓名</th>
+		<th>性别</th>
+		<th>班级</th>
+		<th>学号</th>
+		<th>违纪类型</th>
+		<th>违纪时间</th>
+		<th>相关图片</th>		
+	</tr>
+	</thead>
+	<tbody>
+	{% for user in users %}
+	<tr>
+		<td>{{user.name}}</td>
+		<td>{{user.sex}}</td>
+		<td>{{user.class_name}}</td>
+		<td>{{user.studentname}}</td>
+		<td>{{user.level}}</td>
+		<td>{{user.enter_date}}</td>
+		<td><img src="media/{{user.photo}}"height="124" width="200"></td>
+	</tr>
+	{% endfor %}
+	</tbody>
+</table>			
+</body>
+</html>
